@@ -1,2 +1,2 @@
 # node-product-manage
-NODE JS, JWT, 
+NODE JS, JWT, EXPRESS, JOI, JEST, SUPERTEST
